@@ -15,3 +15,9 @@ It has not been tested thoroughly. Please note that there is no warranty or liab
 
 ![image](https://user-images.githubusercontent.com/17363382/131264852-82f42937-3edf-49a7-b8cb-549672b6a85a.png)
 
+# How to use
+- Download the `vivacalc.scad` file from this repo
+- Open the file in [OpenSCAD](https://openscad.org/)
+- Edit the user variables
+- ???
+- (hopefully) profit!
